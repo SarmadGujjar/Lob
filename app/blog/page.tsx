@@ -63,9 +63,9 @@ const page = () => {
                 </div>
 
                 <div className='flex flex-col shadow-xl'>
-                    <Image alt='img' width={500} height={500} src={blog1} />
+                    <Image className='h-[250px]' alt='img' width={500} height={400} src={blog1} />
                     <main className='flex flex-col bg-white px-4 py-5 gap-3'>
-                        <h2 className='text-xl font-bold'>Use your model in Power Platform</h2>
+                        <h2 className='text-xl font-bold'>Use your model in Power</h2>
                         <span className='text-lg w-[370px]'>We are excited to annouce a new integration with Microsoft Power Plant</span>
                         <span className='text-gray-400'>Release 15 November 2022</span>
                     </main>
