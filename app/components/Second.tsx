@@ -92,7 +92,7 @@ const Second = () => {
                                 <i className='pl-4'> <IoRemoveOutline />                </i>
                             </span>
                         </  div>
-                        <h2 className='text-2xl my-2 font-semibold'>Image Clssification</h2>
+                        <h2 className='text-2xl my-2 font-semibold'>Image Classification</h2>
                         <span className='text-xl'>Label an image based <br />
                             on its content.</span>
                         <button className='text-white text-sm font-bold my-8 bg-gray-300 rounded-full px-3 py-1'>COMING SOON</button>
@@ -111,7 +111,7 @@ const Second = () => {
                                 <i> <IoRemoveOutline />                </i>
                             </span>
                         </  div>
-                        <h2 className='text-2xl my-2 font-semibold'>Image Clssification</h2>
+                        <h2 className='text-2xl my-2 font-semibold'>Image Classification</h2>
                         <span className='text-xl'>Label an image based <br />
                             on its content.</span>
                         <button className='text-white text-sm font-bold my-8 bg-gray-300 rounded-full px-3 py-1'>COMING SOON</button>
